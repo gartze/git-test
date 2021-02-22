@@ -20,5 +20,10 @@
   "homepage": "https://github.com/gartze/git-test#readme",
   "devDependencies": {
     "lite-server": "^2.6.1"
+  },
+  "dependencies": {
+    "bootstrap": "^4.6.0",
+    "jquerry": "^0.0.1-security",
+    "popper.js": "^1.16.1"
   }
 }
